@@ -1,2 +1,2 @@
-# P-gina-React
-Esrudando
+# Pagina-React
+Estudando
